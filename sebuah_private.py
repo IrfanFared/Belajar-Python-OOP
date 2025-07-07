@@ -36,7 +36,7 @@ class ATM:
     def verifikasi_pin(self, input_pin):
         return self.__pin_rahasia == input_pin
 
-mesin_atm = ATM("1234")
+mesin_atm = ATM("12345")
 # print(mesin_atm.__pin_rahasia) # Ini akan error! Python tidak mengenali nama ini.
 
 # Untuk mengaksesnya secara "paksa" (yang tidak disarankan):
