@@ -51,4 +51,4 @@ print(f"Is 7 even? {MathUtils.is_even(7)}")   # Output: Is 7 even? False
 # Anda juga bisa memanggilnya melalui instance, tapi ini tidak menambahkan nilai apapun
 # Karena mereka tidak beroperasi pada instance data
 math_obj = MathUtils()
-print(f"Is 8 even (via instance)? {math_obj.is_even(8)}") # Output: Is 8 even (via instance)? True
+print(f"Is 8 even (via instance)? {math_obj.is_even(8)}") # Output: Is 8 even (via instance)? Trues
