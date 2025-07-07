@@ -1,0 +1,5 @@
+
+Apa Itu Name Mangling di Python?
+Singkatnya, name mangling adalah proses otomatis di mana Python mengubah nama variabel atau metode tertentu yang Anda awali dengan dua underscore (__). Perubahan nama ini dilakukan secara internal oleh Python saat kode Anda dijalankan.
+
+Tujuannya adalah untuk membuat variabel atau metode tersebut "lebih sulit" diakses atau secara tidak sengaja ditimpa dari luar kelas, terutama oleh kelas turunan (anak).
