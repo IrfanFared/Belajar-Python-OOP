@@ -1,0 +1,7 @@
+magic method adalah method khusus yang memberikan kemapuan utuk mendifinisiaka sebuah obje di pyhton  berinteraksi dengan operator  bawaan atau fungsi tertentu
+
+apa sih fungsinya
+-mengiplementasikan perilaku kuston sepertii ubah perilaku objek merespon penamabaha,pengurang
+-membuat objel seperti string
+-untuk membuatk objek mengelola suberdaya file dengan keyword with
+-mengubah objek kedalam bentuk koleksi
